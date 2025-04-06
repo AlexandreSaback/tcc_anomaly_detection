@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimum-vine-316721",
+  "private_key_id": "5d37568eb4e005bd7795f023f3f80743d975b421",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKw2q1VVxXGOuF\nk2Am9RyeHyG0TaTOkSnzyo2qrcntSv2OqEEO9TShX4Q+QnVql1VgVbSSGI4JiM/q\ni9sLFU5yLtu/elPNqz/LlMDpksnfPng9IqEWtz2SHJ6p14Xa9AnqMXzlO+j+kUlu\nIKQXjVKg3rQFphMB8d5UvDf8AvbEjXFf6f5U8VlJ6ezL76pWbGvw/YurkYSCHnOn\nYCP2n/W1nzfQzVffeA4thZh9g3vV3UGfGOXQ3h9XFVU0QvUR1EiH030hUf+1JEW1\nPbZzPCZOOC4lVjpEuGaFmDM5gEyZgfJv1mrX4jEFoGASWUwGlHPIdfoIdpJmj367\nWYiCImFJAgMBAAECggEAAazirVPiuu+ARq7EjR3aWi4cq642jeRiKdsDF6Vu9TB4\n7txSCUsaX7j30UHgUXylnnGm18wvJEIGocP9D9bhuozLkQX0Ok9PbCGzBFsLovYT\nrUGjfhoOfq4Q24tl1jzM9ivpgcVgc/YEWs4XPQCUbbLZXvCT2KDEewPBHKpzmoUi\n4WB3a9ksP93RTjLtAP27APhHcTE9aVj2a6p5zGdFALPvIb0B61xhCJ6s7G+xg7AM\nx1+O+Tiyf3hrhOc3lKaDA8dxKcuKscmOuxcd9ohWHOb2iipR7YwZy0VEAy/kajja\nEaZI4qjNuVckLa9HXQhC90BgN+ZAYRa9zNWCuUQVNwKBgQD8KQAhFVNcI2vyl/uY\nOn6iLksyKowsQ7MF4mgIgQrVWaeqIwkDBC5Rtw0N72rNVTgyC3IZTWJEdxLLBV1J\nLWXX96bHtOyhl/1hjPHe1t0a1yRthNezBi+HsdkONU/muODZm3MlfhwBV4ueniVh\nu0mRKNLL/PmqEr7Yglbh6Rq4kwKBgQDN2dofSUOlMsCOK1WZmCd3pE5m/b5hqGCq\nONg2drt24zTaqEOqfRFKhyetuQ/1eQzZAlrBvn+IiQ+Lr2BcS3MW1mZpq2mgnhiz\nKCG9xk4xaNvB/AovX51GL6ugqmjYO0Xz9CHG6eB6x+kEMglYEF/si56z8UOSXESH\nOKCGjj90MwKBgBPbgrgYPtVNsM2M7HJDgP9yl9dehGVj+3AmMT0iNGEyy0JZufbz\n2FX1DWEgjo+W+3LtddHKR0fO/LriNEN0AMYuKYMmm0/qcTjCabW7w/O+J488W+Qs\nQ4fzGH3G8wDfZE2esUWtlbUBWOxn1dfJcPSue1M3G84p5b+VHBR0T/djAoGAHpyx\nFUn950k+3WWQW0EHTYF/r004zKkPhwDhFmhdxHZRW9r+BRKISb8DpZAJ0YVo5bS1\n7m335UQMrccs20zVFqZXoIs/MAWSwsHLEr+0zSA83gIvOZBMgS2BpmjxIobeBkNd\n6ojJOzkTa+5M+W2l9jVlKnlMhS13e2xuYtQwl4UCgYAPAY2MBQAMHcrGcMZkiyJr\nKf62Km+HeHJ0H+7B6g0UrCP4iGhVDDe3b1GZgeeMGn3uCMiIudKBuXu3+esrC9ZW\nXoCOkAj0KMOt86P3TT0kZsdCCiB5L1RnHcFa0xFE0eprqlwoYm86752mWbBIwuNv\nKS+lRqB5/NfxEkMZzQGd9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "basedosdados-service@optimum-vine-316721.iam.gserviceaccount.com",
+  "client_id": "100998969515101234204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/basedosdados-service%40optimum-vine-316721.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
